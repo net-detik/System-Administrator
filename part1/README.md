@@ -32,6 +32,6 @@ Berikut adalah perintah dasar linux yang sering digunakan
 - chmod : mengubah mode direktori atau file
 - chown : mengubah pemilik file atau direktori
 - ln -s : untuk membuat link direktori
-- > : untuk menyimpan log 
+- \>> : untuk menyimpan log 
 - exit : untuk keluar
 
