@@ -1,0 +1,1 @@
+# Perintah Dasar Linux
