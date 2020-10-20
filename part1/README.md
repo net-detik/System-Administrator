@@ -24,4 +24,6 @@ Berikut adalah perintah dasar linux yang sering digunakan
 - grep : untuk mencari kata tertentu dalam file
 - poweroff : perintah untuk mematikan perangkat/server
 - restart : perintah untuk melakukan restart perangkat/server
+- nmap : untuk melihat port suatu perangkat
+- /etc/init.d/[service_name] restart : untuk restart suatu service
 
