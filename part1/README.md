@@ -16,4 +16,12 @@ Berikut adalah perintah dasar linux yang sering digunakan
 - mount -a : untuk mount seluruh penyimpanan
 - apt-get update : update sistem
 - apt-get install [nama_aplikasi] : untuk install aplikasi
+- ip address : untuk melihat alamat ip (versi baru) 
+- ifconfig : untuk melihat alamat IP
+- top : untuk melihat penggunaan resource
+- free : untuk melihat resource memory
+- cat : untuk menampilkan isi file dalam mode readonly
+- grep : untuk mencari kata tertentu dalam file
+- poweroff : perintah untuk mematikan perangkat/server
+- restart : perintah untuk melakukan restart perangkat/server
 
