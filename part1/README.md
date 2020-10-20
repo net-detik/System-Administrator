@@ -26,4 +26,12 @@ Berikut adalah perintah dasar linux yang sering digunakan
 - restart : perintah untuk melakukan restart perangkat/server
 - nmap : untuk melihat port suatu perangkat
 - /etc/init.d/[service_name] restart : untuk restart suatu service
+- rsync : untuk sinkronisasi file
+- crontab : untuk pembuatan jadwal perintah
+- rm -rf : Hapus file atau direktori
+- chmod : mengubah mode direktori atau file
+- chown : mengubah pemilik file atau direktori
+- ln -s : untuk membuat link direktori
+- >> : untuk menyimpan log 
+- exit : untuk keluar
 
